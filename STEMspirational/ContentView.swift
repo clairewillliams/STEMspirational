@@ -22,6 +22,7 @@ struct ContentView: View {
             Color(red: 200/255, green: 182/255, blue: 255/255)
                 .ignoresSafeArea()
             
+        // purple background
             
             VStack(alignment: .leading, spacing: 10.0) {
                 Image("RosalindFranklin")
